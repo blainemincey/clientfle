@@ -8,5 +8,9 @@
 
 * Run the main method of securitykeys/CreateMasterKeyFile to generate the master key
 
+* Run the main method of CustomerCSFLE
+
 
 Thanks to MongoDB University for initial version of this runnable Java app!
+
+** mods coming for executable jar file!
